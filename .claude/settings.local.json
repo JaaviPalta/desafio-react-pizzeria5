@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install react-router-dom@6)",
+      "Bash(mv \"src\\components\\Pizza.jsx\" \"src\\pages\\Pizza.jsx\")",
+      "Bash(mv \"src\\components\\Cart.jsx\" \"src\\pages\\Cart.jsx\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
